@@ -32,3 +32,29 @@ jobs:
         uses: github/codeql-action/upload-sarif@v2
         with:
           sarif_file: devskim-results.sarif
+/*Cambiar el color de fondo a naranja*/
+body {
+   background-color: #FFA500;
+}
+
+/*Cambiar el color de los enlaces*/
+a {
+   color: #FFA500;
+}
+
+/*Cambiar el color del botón*/
+.button {
+   background-color: #FFA500;
+   color: #FFFFFF;
+}
+
+/*Curvar los bordes de los botones*/
+.button {
+   border-radius: 20px;
+}
+
+/*Curvar los bordes de las imágenes*/
+img {
+   border-radius: 10px;
+}
+<strong>Estudis.deptsocio</strong>
